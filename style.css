@@ -1,0 +1,36 @@
+@media screen and (max-width: 900px) {
+    #content {
+        display: block;
+        height: auto;
+    }
+
+    #grid-in-index {
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+    }
+    #grid-in-index img
+    {
+        size: 50%;
+        margin: 50px auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #pictures-grid
+    {
+        size: 50%;
+        display: block;
+        margin: 0 auto;
+    }
+    #pictures-grid img
+    {
+        width: 50%;
+        margin: 50px auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    footer {
+        margin-top: 25px;
+    }
